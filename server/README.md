@@ -1,5 +1,4 @@
 # AI-Powered 3D Website Using React
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
 
 ## Introduction
 Built a ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
